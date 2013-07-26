@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notiguate</string>
+    <string name="menu_settings">Settings</string>
+	<string-array name="users">
+	    <item>EmisorasUnidas</item>
+	    <item>muniguate</item>
+	    <item>Publinews_GT</item>
+	    <item>el_Periodico</item>
+	    <item>prensa_libre</item>
+	    <item>lahoragt</item>
+	    <item>elquetzalteco</item>
+	    <item>NuestroDiario</item>
+	    <item>siglo21gt</item>
+	</string-array>
+</resources>
