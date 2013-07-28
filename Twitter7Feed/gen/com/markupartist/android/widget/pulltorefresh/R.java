@@ -8,11 +8,11 @@ package com.markupartist.android.widget.pulltorefresh;
 
 public final class R {
 	public static final class id {
-		public static final int pull_to_refresh_progress = 0x7f08000b;
-		public static final int pull_to_refresh_updated_at = 0x7f08000e;
-		public static final int pull_to_refresh_text = 0x7f08000d;
-		public static final int pull_to_refresh_image = 0x7f08000c;
-		public static final int pull_to_refresh_header = 0x7f08000a;
+		public static final int pull_to_refresh_progress = 0x7f08000c;
+		public static final int pull_to_refresh_updated_at = 0x7f08000f;
+		public static final int pull_to_refresh_text = 0x7f08000e;
+		public static final int pull_to_refresh_image = 0x7f08000d;
+		public static final int pull_to_refresh_header = 0x7f08000b;
 	}
 	public static final class string {
 		public static final int pull_to_refresh_refreshing_label = 0x7f040003;
@@ -25,7 +25,7 @@ public final class R {
 		public static final int pull_to_refresh_header = 0x7f030002;
 	}
 	public static final class drawable {
-		public static final int pull_to_refresh_header_background = 0x7f020004;
+		public static final int pull_to_refresh_header_background = 0x7f020005;
 		public static final int icon = 0x7f020003;
 		public static final int ic_pulltorefresh_arrow = 0x7f020002;
 	}

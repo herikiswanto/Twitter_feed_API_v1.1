@@ -18,26 +18,28 @@ public final class R {
         public static final int ic_launcher=0x7f020001;
         public static final int ic_pulltorefresh_arrow=0x7f020002;
         public static final int icon=0x7f020003;
-        public static final int pull_to_refresh_header_background=0x7f020004;
-        public static final int twitter_pro_pic=0x7f020005;
+        public static final int logo=0x7f020004;
+        public static final int pull_to_refresh_header_background=0x7f020005;
+        public static final int twitter_pro_pic=0x7f020006;
     }
     public static final class id {
-        public static final int created_at=0x7f080008;
+        public static final int company_logo=0x7f080004;
+        public static final int created_at=0x7f080009;
         public static final int date=0x7f080002;
         public static final int header=0x7f080000;
         public static final int list=0x7f080003;
         public static final int logo=0x7f080001;
-        public static final int menu_settings=0x7f08000f;
-        public static final int name=0x7f080006;
-        public static final int profile_image_url=0x7f080005;
-        public static final int pull_to_refresh_header=0x7f08000a;
-        public static final int pull_to_refresh_image=0x7f08000c;
-        public static final int pull_to_refresh_progress=0x7f08000b;
-        public static final int pull_to_refresh_text=0x7f08000d;
-        public static final int pull_to_refresh_updated_at=0x7f08000e;
-        public static final int screen_name=0x7f080009;
-        public static final int text=0x7f080007;
-        public static final int thumbnail=0x7f080004;
+        public static final int menu_settings=0x7f080010;
+        public static final int name=0x7f080007;
+        public static final int profile_image_url=0x7f080006;
+        public static final int pull_to_refresh_header=0x7f08000b;
+        public static final int pull_to_refresh_image=0x7f08000d;
+        public static final int pull_to_refresh_progress=0x7f08000c;
+        public static final int pull_to_refresh_text=0x7f08000e;
+        public static final int pull_to_refresh_updated_at=0x7f08000f;
+        public static final int screen_name=0x7f08000a;
+        public static final int text=0x7f080008;
+        public static final int thumbnail=0x7f080005;
     }
     public static final class layout {
         public static final int layout_twitter7_feed=0x7f030000;

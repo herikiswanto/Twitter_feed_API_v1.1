@@ -32,7 +32,7 @@ import android.widget.TextView;
 
 /**
  * @author Kaidul Islam
- *
+ * 
  */
 public class Twitter7FeedActivity extends Activity {
 
@@ -45,7 +45,8 @@ public class Twitter7FeedActivity extends Activity {
 	HashMap<String, String> screenName = new HashMap<String, String>();
 	String[] names = { "Emisoras Unidas 89.7", "MuniGuate",
 			"Publinews Guatemala", "El Periódico", "Prensa Libre",
-			"Diario La Hora", "elQuetzalteco", "Nuestro Diario", "Siglo.21" };
+			"Diario La Hora", "elQuetzalteco", "Nuestro Diario", "Siglo.21",
+			"Circuito San Juan", "Guatevision", "T13Noticias" };
 	String lastID = null;
 
 	@SuppressLint("SimpleDateFormat")
@@ -58,7 +59,7 @@ public class Twitter7FeedActivity extends Activity {
 
 		RelativeLayout rLayout = (RelativeLayout) findViewById(R.id.header);
 		TextView date = (TextView) rLayout.findViewById(R.id.date);
-		SimpleDateFormat sdf = new SimpleDateFormat("MMMM dd");
+		SimpleDateFormat sdf = new SimpleDateFormat("dd, MMM");
 		String currentDateandTime = sdf.format(new Date());
 		date.setText(currentDateandTime);
 
